@@ -12,7 +12,7 @@
         <title>JSP Page</title>
     </head>
     <body>
-        <h1>la moyenne est ${M}</h1>
+        <h1>la moyenne de l'etudiant est: ${M}</h1>
         
         
         
